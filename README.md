@@ -78,3 +78,4 @@ I have no plans to personally, but you can find Nuxt forks at [debs-obrien/nuxt-
 **This isn't exactly what I'm looking for. Where can I find other boilerplates and similar projects?**
 
 See the [awesome-vue](https://github.com/vuejs/awesome-vue#scaffold) repo for other great projects in the Vue ecosystem.
+Hello World
